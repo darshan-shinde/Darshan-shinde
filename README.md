@@ -1,6 +1,6 @@
 <h1><strong>Hi, I'm <a href="https://vipulshinde.com">Darshan</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
-<div align="left"> 
+<!-- <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
 </div>
 
@@ -73,5 +73,5 @@
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-shinde&layout=compact&theme=radical"  width="350px" alt="vipul-shinde">
-</div>
+</div> -->
 

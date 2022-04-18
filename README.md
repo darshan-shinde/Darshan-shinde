@@ -38,7 +38,7 @@
 <hr>
 
 <img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px"> -->
-<h3>🦄 While I am not doing Data Science 😉</h3>
+<h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to go to the gym 🏋️‍♂️</li>
     <li>Watch an Anime 🤓</li>

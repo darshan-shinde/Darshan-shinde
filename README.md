@@ -25,10 +25,10 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img src="https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/react-%23F7931E.svg?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-%23013243.svg?style=for-the-badge&logo=Node.js&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/mongodb-%23FF6F00.svg?style=for-the-badge&logo=Mongodb&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> -->
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">

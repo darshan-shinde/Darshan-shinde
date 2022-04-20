@@ -38,8 +38,8 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <br>
 <hr>
 
-<img align="right" src="https://icons8.com/illustrations/author/627444" width="300px">
-Illustration by <a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<img align="right" src="https://icons8.com/illustrations" width="300px">
+<a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to Travel ✈️</li>

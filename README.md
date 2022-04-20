@@ -15,7 +15,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <!-- <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px"> -->
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍💻 I'm currently a <em>Full Stack Web Developere</em>.</li>
+<li>👨‍💻 I'm currently a <em>Full Stack Web Developer</em>.</li>
 <!-- <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li> -->
 <li>☁  Worked as a <em>CT/MRI Service Engineer</em> at <strong>Sanrad Medical System</strong> for 10 months.</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>

@@ -4,10 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
 </div>
 
-<h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
+<!-- <h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
 
 <p>This is what I have learned over the past two years. I am an innovative person by nature and a data scientist by passion. I am currently a Master's in Computer Science student at the University of Georgia & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
-
+ -->
 <hr>
 <!-- <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px"> -->
 <h3>🚀 Some things you should know 👇</h3>
@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/react-%23F7931E.svg?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express.js&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-%23013243.svg?style=for-the-badge&logo=Node.js&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> -->
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -69,9 +69,9 @@
 <hr>
 <br>
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="vipul-shinde">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="darshan-shinde">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-shinde&layout=compact&theme=radical"  width="350px" alt="vipul-shinde">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=radical"  width="350px" alt="darshan-shinde">
 </div>
 

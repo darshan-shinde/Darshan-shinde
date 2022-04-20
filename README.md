@@ -28,7 +28,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-%23013243.svg?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-%23FF6F00.svg?style=for-the-badge&logo=Mongodb&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/api-%23EE4C2C.svg?style=for-the-badge&logo=api&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">

@@ -1,7 +1,7 @@
 <h1><strong>Hi, I'm <a href="">Darshan</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
+    <img src="https://komarev.com/ghpvc/?username=darshan-shinde" alt="darshan-shinde"> 
 </div>
 
 <!-- <h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
@@ -37,7 +37,7 @@
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<!-- <img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px"> -->
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to go to the gym 🏋️‍♂️</li>

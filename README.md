@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=darshan-shinde" alt="darshan-shinde"> 
 </div>
 
-<h3 align="center"><em>Full-stack Web Developer </em></h3>
+<h1 align="center"><em>Full-stack Web Developer </em></h1>
 
 <p>With a passion for creating solutions to social and global issues through technology and education. Always eager to learn and grow by using new technologies and Exploring new tools to solve unique problems and with proficiency in building fast, scalable, and optimized web applications using the most suitable tool.
 Transitioned from Bio-Medical Service Engineer to a Web Developer to help companies create responsive, scalable, and maintainable web experiences. My skills include quickly learning new skills, and programming languages, problem-solving, debugging, website optimization, communication, and intense Googling.</p>
@@ -52,7 +52,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/shinde-darshan/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px">
     </a>&nbsp;&nbsp;
 <!--     <a href="https://twitter.com/thevipulshinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">

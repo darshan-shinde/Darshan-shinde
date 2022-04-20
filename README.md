@@ -57,7 +57,6 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <a href="https://www.linkedin.com/in/shinde-darshan/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px">
     </a>&nbsp;&nbsp;
-
     <a href="mailto: shindedarshan502@gmail.com@gmail.com">
        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="30px">
     </a>&nbsp;&nbsp;

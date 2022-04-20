@@ -38,11 +38,12 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <br>
 <hr>
 
-<!-- <img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px"> -->
+<img align="right" src="https://icons8.com/illustrations/author/627444" width="300px">
+<!-- Illustration by <a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
-    <li>I love to go to the gym 🏋️‍♂️</li>
-    <li>Watch an Anime 🤓</li>
+    <li>I love to Travel ✈️</li>
+    <li>Watch a Movie 🤓</li>
     <li>Cook an amazing dish 👨‍🍳😋</li>
     <li>Play Cricket 🏏</li>
     <li> Spotify 🎧💚</li>

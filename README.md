@@ -4,10 +4,11 @@
     <img src="https://komarev.com/ghpvc/?username=darshan-shinde" alt="darshan-shinde"> 
 </div>
 
-<!-- <h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
+<h3 align="center"><em>Full-stack Web Developer with a passion for creating solutions to social and global issues through technology and education.</em></h3>
 
-<p>This is what I have learned over the past two years. I am an innovative person by nature and a data scientist by passion. I am currently a Master's in Computer Science student at the University of Georgia & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
- -->
+<p> Always eager to learn and grow by using new technologies and Exploring new tools to solve unique problems and with proficiency in building fast, scalable, and optimized web applications using the most suitable tool.
+Transitioned from Bio-Medical Service Engineer to a Web Developer to help companies create responsive, scalable, and maintainable web experiences. My skills include quickly learning new skills, and programming languages, problem-solving, debugging, website optimization, communication, and intense Googling.</p>
+
 <hr>
 <!-- <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px"> -->
 <h3>🚀 Some things you should know 👇</h3>
@@ -50,19 +51,19 @@
 
 <h3>How to reach me ✨</h3>
 <div>
-    <a href="https://www.linkedin.com/in/vipul-shinde/">
+    <a href="https://www.linkedin.com/in/shinde-darshan/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/thevipulshinde/">
+<!--     <a href="https://twitter.com/thevipulshinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Vipul#6101/">
         <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="mailto: shindevipul205@gmail.com">
+    </a>&nbsp;&nbsp; -->
+    <a href="mailto: shindedarshan502@gmail.com@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/vipul-shinde/">
+    <a href="https://github.com/darshan-shinde/">
         <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>

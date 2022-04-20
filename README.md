@@ -61,7 +61,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
         <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
     </a>&nbsp;&nbsp; -->
     <a href="mailto: shindedarshan502@gmail.com@gmail.com">
-        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+        <img src="https://www.flaticon.com/free-icon/email_1077020?related_id=1077020" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/darshan-shinde/">
         <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">

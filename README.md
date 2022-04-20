@@ -38,8 +38,9 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <br>
 <hr>
 
-<img align="right" src="https://icons8.com/illustrations" width="300px">
-<a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<!-- <img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px"> -->
+<!-- <a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
+<!-- <a href="https://www.freepik.com/vectors/creative-illustration">Creative illustration vector created by pikisuperstar - www.freepik.com</a> -->
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to Travel ✈️</li>

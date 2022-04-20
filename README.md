@@ -40,9 +40,8 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <br>
 <hr>
 
-<img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px">
-<!-- <a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
-<!-- <a href="https://www.freepik.com/vectors/creative-illustration">Creative illustration vector created by pikisuperstar - www.freepik.com</a> -->
+<!-- <img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px"> -->
+
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to Travel ✈️</li>
@@ -58,12 +57,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <a href="https://www.linkedin.com/in/shinde-darshan/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px">
     </a>&nbsp;&nbsp;
-<!--     <a href="https://twitter.com/thevipulshinde/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/Vipul#6101/">
-        <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
-    </a>&nbsp;&nbsp; -->
+
     <a href="mailto: shindedarshan502@gmail.com@gmail.com">
        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="30px">
     </a>&nbsp;&nbsp;

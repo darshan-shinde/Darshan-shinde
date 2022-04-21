@@ -71,7 +71,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="350px" alt="darshan-shinde"> &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="390px" alt="darshan-shinde"> &nbsp;&nbsp;
     &nbsp;&nbsp;
 </div>
 

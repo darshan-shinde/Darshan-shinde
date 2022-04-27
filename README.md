@@ -24,7 +24,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 
 <h3>My Skills include 👨‍💻</h3>
 <div>
-    <img src="https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white" >
     <img src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/react-%23F7931E.svg?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express&logoColor=white">
@@ -71,7 +71,10 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="390px" alt="darshan-shinde"> &nbsp;&nbsp;
-    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="darshan-shinde"> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<div >
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-shinde&layout=compact&theme=algolia" width="400px" alt="darshan-shinde" />
 </div>
 

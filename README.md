@@ -15,7 +15,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <!-- <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px"> -->
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍💻 I'm currently a <em>Full Stack Web Developere</em>.</li>
+<li>👨‍💻 I'm currently a <em>Full Stack Web Developer</em>.</li>
 <!-- <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li> -->
 <li>☁  Worked as a <em>CT/MRI Service Engineer</em> at <strong>Sanrad Medical System</strong> for 10 months.</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
@@ -24,7 +24,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 
 <h3>My Skills include 👨‍💻</h3>
 <div>
-    <img src="https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white" >
     <img src="https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/react-%23F7931E.svg?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23150458.svg?style=for-the-badge&logo=express&logoColor=white">
@@ -36,13 +36,13 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/npm-%23563D7C.svg?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 <br>
 <hr>
 
-<img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px">
-<!-- <a href="https://icons8.com/illustrations/author/627444"></a> from <a href="https://icons8.com/illustrations">Ouch!</a> -->
-<!-- <a href="https://www.freepik.com/vectors/creative-illustration">Creative illustration vector created by pikisuperstar - www.freepik.com</a> -->
+<!-- <img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px"> -->
+
 <h3>🦄 While I am not doing Coding 😉</h3>
 <ul>
     <li>I love to Travel ✈️</li>
@@ -58,12 +58,6 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <a href="https://www.linkedin.com/in/shinde-darshan/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px">
     </a>&nbsp;&nbsp;
-<!--     <a href="https://twitter.com/thevipulshinde/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
-    </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/Vipul#6101/">
-        <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
-    </a>&nbsp;&nbsp; -->
     <a href="mailto: shindedarshan502@gmail.com@gmail.com">
        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="30px">
     </a>&nbsp;&nbsp;
@@ -74,9 +68,13 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <hr>
 <br>
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="darshan-shinde">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=radical"  width="350px" alt="darshan-shinde">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="darshan-shinde"> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<div >
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-shinde&layout=compact&theme=algolia" width="400px" alt="darshan-shinde" />
 </div>
 
